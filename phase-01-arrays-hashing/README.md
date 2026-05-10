@@ -1,0 +1,1 @@
+# Hashing Mental Notes
