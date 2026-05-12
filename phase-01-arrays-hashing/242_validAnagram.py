@@ -6,8 +6,7 @@ class Solution:
 
         # define dicts
         s_map, t_map = {}, {}
-
-        s_map, t_map = {}, {}
+        
         for c in s:
             s_map[c] = s_map.get(c, 0) + 1
         for c in t:
